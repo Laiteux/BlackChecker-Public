@@ -9,8 +9,8 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ### Fixed
 
-- Fixed a bug with `internal` models properties not being seen by `JsonSerializer`/reflection, causing no hit to be obtained as well as other issues.
-- Fixed a bug with check id always changing when requesting custom webhook.
+- Fixed a bug with `internal` models properties not being seen by `JsonSerializer` reflection, causing no hit to be obtained as well as other issues.
+- Fixed a bug with check ID always changing when requesting custom webhook.
 
 ## [1.0.1] - 2020-05-24
 
