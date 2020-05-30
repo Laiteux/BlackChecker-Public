@@ -9,7 +9,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ### Changed
 
-- Removed extra "%" characters from console title & Discord progress webhook
+- Removed extra "%" characters from console title & Discord progress webhook.
 
 ## [1.0.2] - 2020-05-28
 
