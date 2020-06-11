@@ -9,11 +9,11 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ### Added
 
-- Filter proxies with invalid port (>65535)
+- Filter proxies with invalid port (>65535).
 
 ### Fixed
 
-- Fixed insecure worth being included twice in total hits worth
+- Fixed insecure worth being included twice in total hits worth.
 
 ## [1.0.3] - 2020-05-30
 
