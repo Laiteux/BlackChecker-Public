@@ -1,6 +1,6 @@
 # <img src="https://checker.black/img/logo.svg" height=100 alt="BlackChecker" />
 
-This repository contains BlackChecker related stuff, such as [changelogs](CHANGELOG.md) and [documentation](#documentation).
+This repository contains BlackChecker related stuff, such as [changelog](CHANGELOG.md) and [documentation](#documentation).
 
 ### Documentation
 
