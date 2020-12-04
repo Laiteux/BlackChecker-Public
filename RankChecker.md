@@ -19,7 +19,7 @@
 | continue | array of strings | If the response doesn't contain any of these strings, the requests will be re-sent with a new proxy | | | |
 | regex | string | Regular expression to be executed against the response | | | ✓ |
 | group | integer | RegEx match group number for the rank | | 1 | |
-| ignore | array of strings | If the rank is is any of these strings (case insensitive), no rank will be assigned to the account | | | |
+| ignore | array of strings | If the rank is any of these strings (case insensitive), no rank will be assigned to the account | | | |
 
 ### Example of a (fake) rank checker config using all parameters
 ```json
